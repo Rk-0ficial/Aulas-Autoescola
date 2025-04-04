@@ -1,0 +1,15 @@
+body{
+    background-image: linear-gradient(to right, #5DA4F5,#5DA4F5);font-size: 20px;font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+main{
+    background-color: white;
+    width: 600px; border-radius: 10px;
+    box-shadow: 5px 5px 15px #3b689cc2;
+    padding: 10px;
+    margin: auto;
+}
+h1{
+    color: #294769;text-align: center; text-shadow: 1px 1px 2px #1e344d;
+}
+p{text-align: justify;font-size: 20px;
+}
